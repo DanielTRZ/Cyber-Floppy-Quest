@@ -2,7 +2,6 @@
 
 
 
-
 10 REM --- RETRO CYBER-FLOPPY QUEST 1995 ---
 20 CLS
 30 COLOR 11, 0: PRINT "========================================"
